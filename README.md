@@ -1,7 +1,7 @@
 # Air Traffic Control & Resource Management Dashboard
 
 ## 📊 Visualización Ejecutiva
-![Dashboard EANA](assets/EANA.jpg)
+![Dashboard EANA](assets/EANA.png)
 
 ## 📌 Escenario de Negocio
 Desarrollo orientado a la alta dirección de **EANA (Empresa Argentina de Navegación Aérea)** para la supervisión integral de la performance operativa en aeropuertos y torres de control nacionales. El sistema centraliza la gestión de tráfico aéreo y la asignación de recursos humanos, permitiendo una transición de una administración reactiva a una basada en eficiencia operativa y financiera.
